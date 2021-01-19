@@ -1,0 +1,14 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.top_heading {
+  color: navy;
+}
+
+.paragraph {
+  font-size: xx-large;
+  color: navy;
+}
+.paragraph:hover {
+  color: red;
+}
